@@ -1,8 +1,8 @@
 #include <Arduino.h>
 #include <base64.h>
 
-String FIREBASE_HOST = "https://spybot-96f14-default-rtdb.firebaseio.com/";
-String FIREBASE_AUTH = "bKxJVwFoxQ8yOlaN2UlkbKtnj1OxC4djixI9WJJT";
+String FIREBASE_HOST = "";
+String FIREBASE_AUTH = "";
 #include "FirebaseESP32.h"
 FirebaseData firebaseData;
 #include <WiFi.h>
