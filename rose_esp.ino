@@ -4,11 +4,11 @@
 #include "addons/TokenHelper.h"
 //Provide the RTDB payload printing info and other helper functions.
 #include "addons/RTDBHelper.h" 
-#define API_KEY "AIzaSyDWzK_1DbkIGULDKDT5WpKnoBrge4loT0E"
+#define API_KEY ""
 String data;
 // Insert RTDB URLefine the RTDB URL */
-#define DATABASE_URL "https://spybot-96f14-default-rtdb.firebaseio.com/" 
-#define FIREBASE_AUTH "bKxJVwFoxQ8yOlaN2UlkbKtnj1OxC4djixI9WJJT"
+#define DATABASE_URL "" 
+#define FIREBASE_AUTH ""
 FirebaseData fbdo;
     float T = 0.00;
     float H = 0.00;
